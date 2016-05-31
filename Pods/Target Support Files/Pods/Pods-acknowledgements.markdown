@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## MJRefresh
 
-Copyright (c) 2013-2015 MJRefresh (https://github.com/CoderMJLee/MJRefresh)
+Copyright (c) 2013-2014 MJRefresh (https://github.com/CoderMJLee/MJRefresh)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

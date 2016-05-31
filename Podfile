@@ -1,2 +1,2 @@
 platform:ios, '8.0'
-pod 'MJRefresh', '~>3.1.0'
+pod 'MJRefresh', '~> 0.0.1'
